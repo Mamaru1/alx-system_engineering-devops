@@ -1,2 +1,2 @@
-#1/bin/bash
-mv/temp/betty/tmp/my_first_directory/temp
+#!/bin/bash
+mv/temp/betty/tmp/my_first_directory/

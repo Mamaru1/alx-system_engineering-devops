@@ -1,1 +1,1 @@
-cd:usd tochang your working directory
+ls -l: long list file

@@ -1,1 +1,1 @@
-ls: is the command usid to list file
+cd:usd tochang your working directory

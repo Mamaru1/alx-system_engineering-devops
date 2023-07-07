@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x this is used to excute shell scripts
+chmod u+x hello

@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp ALX hello
+chgrp holberton hello
